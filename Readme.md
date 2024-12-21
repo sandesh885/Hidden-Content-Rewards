@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/62a3b1f8-1c47-4eae-8538-541a6c946da8)# Hidden Content Rewards
+# Hidden Content Rewards
 
 ## Project Description
 The **Hidden Content Rewards** smart contract allows game developers to reward players with tokens for discovering hidden content, such as Easter eggs, secret areas, or unique in-game items. Players who discover these hidden contents can claim a reward once per discovery, and the claim is tracked and recorded on the blockchain, providing transparency and fairness. The contract is designed to be easily integrated with an ERC-20 token, enabling decentralized rewards for players. This promotes deeper engagement in games and rewards players for exploring and interacting with the game world.
